@@ -21,11 +21,7 @@
 - 🎣 Pesca esportiva! Minha terapia, minha paz!
 - 🏞️ Ecoturismo, camping, viajar
 
-## Contato
-
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-
-<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="paulofreitasjunior" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/paulofreitasjunior?trk=profile-badge">Paulo Roberto L. de Freitas Jr</a></div>            
+## Contato        
               
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/paulofreitasjunior/_do_linkedin)
 
