@@ -1,6 +1,6 @@
-<table style="border-collapse: collapse; border: none; margin: 0; padding: 0;">
+<table style="border-collapse: collapse; border: 0; margin: 0; padding: 0;">
 <tr style="border: none; margin: 0; padding: 0;">
-<td width="60%" style="border: none; vertical-align: top; margin: 0; padding-right: 20px;">
+<td width="60%" style="border: 0; vertical-align: top; margin: 0; padding-right: 20px;">
 
 ## Sobre mim
 
@@ -23,7 +23,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/paulofreitasjunior)
 
 </td>
-<td width="40%" style="border: none; margin: 0; padding: 0;">
+<td width="40%" style="border: 0; margin: 0; padding: 0;">
 <img src="images/paulo3.jpeg" alt="Paulo Freitas Junior" style="width: 100%; border-radius: 10px;"/>
 </td>
 </tr>
