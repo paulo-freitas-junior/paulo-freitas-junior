@@ -28,6 +28,3 @@
 </td>
 </tr>
 </table>
-
-
-README EM CONSTRUÇÃO!! 
