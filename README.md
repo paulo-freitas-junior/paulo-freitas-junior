@@ -1,4 +1,6 @@
-<img src="images/paulo3.jpeg" alt="Paulo Freitas Junior" style="max-width: 320px; width: 100%; height: 240px; object-fit: cover;"/>
+<table style="border-collapse: collapse; border: none;">
+<tr style="border: none;">
+<td width="60%" style="border: none; vertical-align: top;">
 
 ## Sobre mim
 
@@ -19,6 +21,13 @@
 ## Contato        
               
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/paulofreitasjunior)
+
+</td>
+<td width="40%" style="border: none; padding-left: 20px;">
+<img src="images/paulo3.jpeg" alt="Paulo Freitas Junior" style="width: 100%; border-radius: 10px;"/>
+</td>
+</tr>
+</table>
 
 
 README EM CONSTRUÇÃO!! 
