@@ -23,7 +23,7 @@
 
 ## Contato        
               
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/paulofreitasjunior/_do_linkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/paulofreitasjunior)
 
 
 README EM CONSTRUÇÃO!! 
