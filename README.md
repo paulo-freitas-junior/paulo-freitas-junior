@@ -1,4 +1,4 @@
-<img src="images/paulo.jpg" alt="Paulo Freitas Junior" style="max-width: 640px; width: 100%; height: 480px; object-fit: cover;"/>
+<img src="images/paulo.jpg" alt="Paulo Freitas Junior" style="max-width: 320px; width: 100%; height: 240px; object-fit: cover;"/>
 
 ## Sobre mim
 
