@@ -9,11 +9,6 @@
 - 💻 Apaixonado por tecnologias inovadoras
 - 🚀 "A qualidade mais valiosa para o aprendizado é uma atitude positiva." - Bobbi DePorter
 
-## Graduação e Pós-Graduação
-
-- [Pós-Graduação IA e ML](certificados/Declaracao_de_Conclusao_Pos.pdf)
-- [Graduação em Ciência de Dados](certificados/Diploma_CST.pdf)
-
 ## Hobbies e Interesses Pessoais
 
 - 📚 Ficção Científica, Biografias, Fantasia
