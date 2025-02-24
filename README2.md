@@ -24,7 +24,7 @@
 
 </td>
 <td width="40%" style="border: none; padding-left: 20px;">
-<img src="images/paulo3.jpeg" alt="Paulo Freitas Junior" style="width: 100%; border-radius: 10px;"/>
+<img src="images/paulo3.jpeg" alt="Paulo Freitas Junior" style="width: 100%; border-radius: 0px;"/>
 </td>
 </tr>
 </table>
