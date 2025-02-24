@@ -1,7 +1,7 @@
 <table style="border-collapse: collapse; border: none;">
 <tr style="border: none;">
 <td width="60%" style="border: none; vertical-align: top;">
-=======
+
 ## Sobre mim
 
 - 🎓 Pós-Graduando em Inteligência Artificial e Machine Learning - Unicid
