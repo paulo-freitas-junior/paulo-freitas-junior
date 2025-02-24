@@ -2,9 +2,6 @@
 <tr style="border: none;">
 <td width="60%" style="border: none; vertical-align: top;">
 =======
-<img src="images/paulo3.jpeg" alt="Paulo Freitas Junior" style="max-width: 640px; width: 100% height: 480px; object-fit: cover;"/>
-
-
 ## Sobre mim
 
 - 🎓 Pós-Graduando em Inteligência Artificial e Machine Learning - Unicid
